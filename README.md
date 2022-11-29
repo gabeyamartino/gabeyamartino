@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabe Yamartino</h1>
 <h3 align="center">Software Engineer | Hack Reactor Alumni | Avid Music Lover</h3>
 
-- 🔭 I’m currently working on [Neighborly](https://github.com/Neighborly-Saffron)
+- 🔭 I’m currently working on [Neighborly](https://github.com/Neighborly-Saffron/Neighborly)
 
 - 💬 Ask me about **React, JavaScript, PostgreSQL!**
 
