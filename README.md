@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13488
-Fork on GitHub
-3546
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Gabe Yamartino</h1>
 <h3 align="center">Software Engineer | Hack Reactor Alumni | Avid Music Lover</h3>
 
