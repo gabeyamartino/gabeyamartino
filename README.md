@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabe Yamartino</h1>
 <h3 align="center">Software Engineer | Hack Reactor Alumni | Avid Music Lover</h3>
 
-- 🔭 I’m currently working on [SingSoft.ly](https://github.com/gabeyamartino/SingSoft.ly)
+- 🔭 I’m currently working on my [portfolio](https://github.com/gabeyamartino/portfolio)
 
 - 💬 Ask me about **React, JavaScript, PostgreSQL!**
 
