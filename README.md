@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabe Yamartino</h1>
 <h3 align="center">Software Engineer | Hack Reactor Alumni | Avid Music Lover</h3>
 
-- 🔭 I’m currently working on my [trilobyte.io](https://github.com/trilobyte-io/trilobyte-io)
+- 🔭 I’m currently working on [trilobyte.io](https://github.com/trilobyte-io/trilobyte-io)
 
 - 💬 Ask me about **React, JavaScript, PostgreSQL!**
 
